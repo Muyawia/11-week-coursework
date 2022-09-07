@@ -15,7 +15,7 @@ npm start
 ```
 Then open localhost:3001 on your browser.
 
-This application is deployed on heroku you can follow this link to access it: 
+This application is deployed on heroku you can follow this link to access it: https://marvias-note-taker.herokuapp.com/
 
 ## TODO:
 * Add tests
